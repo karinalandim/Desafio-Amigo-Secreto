@@ -44,7 +44,7 @@ HTML5
 
 CSS3
 
-JavaScript (DOM Manipulation)
+JavaScript
 
 📄 Licença
 
